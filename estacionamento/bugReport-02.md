@@ -1,4 +1,4 @@
-Titulo: Valor de troco incorreto
+Titulo: Cálculo de horas incorreto
 
 Passos:
 1. Abir o programa
@@ -11,4 +11,4 @@ O programa deveria imprimir "O carro ficou 23 horas." e "Total a pagar: R$ 115.0
 
 
 Resultado Atual:
-O programa imprimiu "O carro ficou -1 horas." e "Total a pagar: R$ -5.00". ( Cálculo de horas e total a pagar incorreto, )
+O programa imprimiu "O carro ficou -1 horas." e "Total a pagar: R$ -5.00". ( Cálculo de horas e total a pagar incorreto)

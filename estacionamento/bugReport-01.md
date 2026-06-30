@@ -1,4 +1,4 @@
-Titulo: Valor de troco incorreto
+Titulo: Valor mínimo incorreto
 
 Passos:
 1. Abir o programa
